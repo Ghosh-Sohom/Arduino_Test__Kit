@@ -24,4 +24,4 @@ To get started with this repository, simply clone it to your local machine and s
 ## License
 
 This project is well kinda not licensed at all, its just snips, so do whatever you will with this.
-TLDR; Its probably me using it
+TLDR; Its probably ONLY me using it
